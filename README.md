@@ -1,4 +1,4 @@
-# **Sentimental-Analysis-on-COVID-19-Tweets-Project:**
+# **Sentimental Analysis on COVID 19 Tweets:**
 
 ## **Introduction:**
 
